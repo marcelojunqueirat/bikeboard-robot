@@ -1,7 +1,0 @@
-{"level":30,"time":"2025-11-19T18:25:14.860Z","pid":1375584,"hostname":"SOFT008254","msg":"Listening on 127.0.0.1:35545"}
-{"level":30,"time":"2025-11-19T18:25:14.948Z","pid":1375584,"hostname":"SOFT008254","msg":"Start of node method initializeExtension"}
-{"level":30,"time":"2025-11-19T18:25:14.948Z","pid":1375584,"hostname":"SOFT008254","msg":"Initializing extension: /home/marcelo.teixeira@softplan.com.br/Documentos/study/oct/bikeboard-robot/robot/resources/mocks/ads.js"}
-{"level":30,"time":"2025-11-19T18:25:14.949Z","pid":1375584,"hostname":"SOFT008254","msg":"Adding 1 keywords from JS Extension"}
-{"level":30,"time":"2025-11-19T18:25:14.951Z","pid":1375584,"hostname":"SOFT008254","msg":"End of node method initializeExtension"}
-{"level":30,"time":"2025-11-19T18:25:15.416Z","pid":1375584,"hostname":"SOFT008254","msg":"Start of node method closeAllBrowsers"}
-{"level":30,"time":"2025-11-19T18:25:15.416Z","pid":1375584,"hostname":"SOFT008254","msg":"End of node method closeAllBrowsers"}
